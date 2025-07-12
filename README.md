@@ -4,7 +4,7 @@ An interactive, modern pitch deck for SAMARA - The intelligent smart layer for M
 
 ## 🚀 Live Demo
 
-[View Live Pitch Deck](https://your-vercel-url.vercel.app)
+[View Live Pitch Deck](https://samara-pitch-deck.vercel.app) | [GitHub Repository](https://github.com/RokiSeydi/samara-pitch-deck)
 
 ## 📖 About
 
